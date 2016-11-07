@@ -2,3 +2,8 @@ Test01
 Modified Test.txt
 
 Modified by branch05.
+
+Modify 1 on branch06.
+Modify 2 on branch06.
+Modify 3 on branch06.
+
